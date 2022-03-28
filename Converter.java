@@ -1,1 +1,3 @@
-class Converter{}
+class Converter{
+	int a=5;
+}
